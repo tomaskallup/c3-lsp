@@ -8,3 +8,7 @@ server/internal/parser
 server/bin
 dist/
 docs/help
+
+# Nix stuff
+.direnv
+result
