@@ -1,9 +1,10 @@
 .DS_Store
 .idea
 *.log
-assets
-tree-sitter-c3
 parser/chumsky
 server/internal/parser
 server/bin
 dist/
+.direnv
+result
+assets
